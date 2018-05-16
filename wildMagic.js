@@ -9,6 +9,7 @@ function wildMagic()
 }
 
 function setup() {
+	console.log("Setting up...");
 	request.onload = function() {
 		var fileContent = this.responseText;
 		fileContentLines = fileContent.split('\n');
