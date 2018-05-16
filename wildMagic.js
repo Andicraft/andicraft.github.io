@@ -1,33 +1,41 @@
 var request = new XMLHttpRequest();
 var fileContentLines = null;
+var numResults = 10;
+var idString = "result";
 
 function surge()
 {
+	
 	var lineIndex = Math.floor(Math.random() * fileContentLines.length);
 	var line = fileContentLines[lineIndex];
-	document.getElementById("result").innerHTML = line;
+	document.getElementById(idString+"0").innerHTML = line;
+	for (i = numResults-1; i > 0; i--)
+	{
+		var oldPos = document.getElementById(idString+(i-1));
+		var newPos = document.getElementById(idString+i);
+		newPos.innerHTML = oldPos.innerHTML;
+	}
 }
 
 function setup() {
 	console.log("Setting up...");
+	request.responseType = "text";
 	request.onload = function() {
+		console.log("Loading text file");
 		var fileContent = this.responseText;
 		fileContentLines = fileContent.split('\n');
+		
+		var i;
+		for (i = 0; i < numResults; i++) {
+				var p = document.createElement("p");
+				var t = document.createTextNode("-");
+				p.appendChild(t);
+				p.id = idString+i;
+				document.getElementById("rlist").appendChild(p);
+		}	
+		console.log("Loaded text file, "+fileContentLines.length+" lines");
+		
 	};
 	request.open('GET', '/content/wildMagic.txt');
 	request.send();
-	
-	numResults = 10;
-	var i;
-	for (i = 0; i < numResults; i++) {
-		var p = document.createElement("p");
-		var node = document.id = "result"+i.toString();
-		var e;
-		if (i == 0) {
-			e = document.getElementById("button");
-		} else {
-			e = "result"-i.toString();
-		}
-	}
-	
 }
