@@ -16,4 +16,18 @@ function setup() {
 	};
 	request.open('GET', '/content/wildMagic.txt');
 	request.send();
+	
+	numResults = 10;
+	var i;
+	for (i = 0; i < numResults; i++) {
+		var p = document.createElement("p");
+		var node = document.id = "result"+i.toString();
+		var e;
+		if (i == 0) {
+			e = document.getElementById("button");
+		} else {
+			e = "result"-i.toString();
+		}
+	}
+	
 }
