@@ -8,13 +8,13 @@ function surge()
 	
 	var lineIndex = Math.floor(Math.random() * fileContentLines.length);
 	var line = fileContentLines[lineIndex];
-	document.getElementById(idString+"0").innerHTML = line;
 	for (i = numResults-1; i > 0; i--)
 	{
 		var oldPos = document.getElementById(idString+(i-1));
 		var newPos = document.getElementById(idString+i);
 		newPos.innerHTML = oldPos.innerHTML;
 	}
+	document.getElementById(idString+"0").innerHTML = line;
 }
 
 function setup() {
