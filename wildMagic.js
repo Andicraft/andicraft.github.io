@@ -15,6 +15,8 @@ function surge()
 		newPos.innerHTML = oldPos.innerHTML;
 	}
 	document.getElementById(idString+"0").innerHTML = line;
+	document.getElementById('rlist').style.display = 'none';
+	document.getElementById('rlist').style.display = 'block';
 }
 
 function setup() {
