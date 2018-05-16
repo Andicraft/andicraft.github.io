@@ -31,6 +31,7 @@ body {
 	font-size: 24px;
 	background: linear-gradient(#8e0505FF, #8e050500);
 	background-clip: text;
+	-webkit-background-clip: text;
 	color: transparent;
 }
 
