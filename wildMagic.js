@@ -36,6 +36,6 @@ function setup() {
 		console.log("Loaded text file, "+fileContentLines.length+" lines");
 		
 	};
-	request.open('GET', '/content/wildMagic.txt');
+	request.open('GET', './content/wildMagic.txt');
 	request.send();
 }

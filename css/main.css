@@ -19,7 +19,8 @@ html, body {
 
 .wrapper {
     text-align: center;
-    padding: 375px 0;
+    padding: 80px 0;
+	position:relative;
 }
 
 body {
@@ -29,16 +30,30 @@ body {
 .results {
 	font-family: 'Cinzel', serif;
 	font-size: 24px;
-	background: linear-gradient(#8e0505FF, #8e050500);
-	background-clip: text;
-	-webkit-background-clip: text;
-	color: transparent;
+	color: #8e0505;
 }
 
 #result0 {
 	font-size: 40px !important;
 	margin-bottom: 40px;
 	margin-top: -40px;
+}
+
+#result6 {
+	color: #b4584b;
+}
+
+#result7 {
+	color: #d7a38c;
+}
+
+#result8 {
+	color: #eaccaf;
+}
+
+#result9
+{
+	color: #f4dfbf;
 }
 
 p {
