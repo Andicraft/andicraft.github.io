@@ -61,4 +61,19 @@ p {
 	margin: 20px;
 }
 
+footer {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 13px;
+	color: #8e0505;
+}
+
+footer a {
+	color: #8e0505;
+}
+
+footer a:hover {
+	color: #d7a38c;
+}
+
 
