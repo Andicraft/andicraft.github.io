@@ -10,13 +10,11 @@ function surge()
 	var line = fileContentLines[lineIndex];
 	for (i = numResults-1; i > 0; i--)
 	{
-		var oldPos = document.getElementById(idString+(i-1));
+		var oldPos = document.getElementById(idString+(i-1)).innerHTML;
 		var newPos = document.getElementById(idString+i);
-		newPos.innerHTML = oldPos.innerHTML;
+		newPos.innerHTML = oldPos;
 	}
 	document.getElementById(idString+"0").innerHTML = line;
-	document.getElementById('rlist').style.display = 'none';
-	document.getElementById('rlist').style.display = 'block';
 }
 
 function setup() {
