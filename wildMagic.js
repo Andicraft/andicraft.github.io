@@ -1,7 +1,7 @@
 var request = new XMLHttpRequest();
 var fileContentLines = null;
 
-function wildMagic()
+function surge()
 {
 	var lineIndex = Math.floor(Math.random() * fileContentLines.length);
 	var line = fileContentLines[lineIndex];
