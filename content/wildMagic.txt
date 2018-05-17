@@ -119,7 +119,7 @@
 0119 After each spell, caster's hair grows two inches 
 0120 After each spell, caster's hands display classic stigmata 
 0121 After each spell, caster's hands steam wildly  
-0122 After each spell, caster's head turns 360(cid:176) at the neck, unharmed 
+0122 After each spell, caster's head turns 360&deg;  at the neck, unharmed 
 0123 After each spell, caster's head turns invisible for 1d4 rounds 
 0124 After each spell, caster's heart pounds audibly 
 0125 After each spell, caster's left arm turns to stone for one hour 
@@ -549,7 +549,7 @@
 0549 Caster can throw one nearby person 1d4 days into the future 
 0550 Caster can transmute magically-created metal into wood 
 0551 Caster can travel in time but ages 1d10 years per round traveled 
-0552 Caster can turn 360(cid:176) at the waist without harm 
+0552 Caster can turn 360&deg; at the waist without harm 
 0553 Caster can turn ethereal at will but can't revert for 3d8 days 
 0554 Caster can turn his arms to wood for up to 1d6 rounds per day 
 0555 Caster can turn his bones invisible at will 
@@ -561,7 +561,7 @@
 0561 Caster can turn into any kind of fish if no water is nearby 
 0562 Caster can turn invisible while he holds his breath 
 0563 Caster can turn invisible while naked and motionless 
-0564 Caster can walk on inclines of 45(cid:176) or less as if they were flat 
+0564 Caster can walk on inclines of 45&deg; or less as if they were flat 
 0565 Caster can withstand ocean depths while holding a bar of sodium 
 0566 Caster can, at will, appear to be the next person he touches 
 0567 Caster can't attack anyone more than 20 feet away from him 
@@ -701,7 +701,7 @@
 0701 Caster completely blends into his surroundings while upside down 
 0702 Caster compulsively hordes some kind of small, worthless item 
 0703 Caster confesses to every crime he hears about 
-0704 Caster confesses to improbable crimes (e.g. "I stole the moon(cid:133)") 
+0704 Caster confesses to improbable crimes (e.g. "I stole the moon...") 
 0705 Caster consistently overestimates his martial and magical prowess 
 0706 Caster continues to age normally but can't die of old age 
 0707 Caster coughs violently in the presence of undead 
@@ -1909,7 +1909,7 @@
 1909 Caster's body is rumored to contain countless diamonds 
 1910 Caster's body is scarred as if he's undergone an autopsy 
 1911 Caster's body is scarred with innumerable cryptic runes 
-1912 Caster's body swivels 180(cid:176) at the waist and stays that way 
+1912 Caster's body swivels 180&deg; at the waist and stays that way 
 1913 Caster's bones are as fragile as glass for 1d4 rounds 
 1914 Caster's bones can't be broken but are highly combustible 
 1915 Caster's bones can't be broken unless he's barefoot 
@@ -1943,8 +1943,8 @@
 1943 Caster's clothes are water soluble 
 1944 Caster's clothes clatter like metal when he moves 
 1945 Caster's clothes don't leave much to the imagination 
-1946 Caster's clothes heat by 1(cid:176) per minute for the next 1d10 hours 
-1947 Caster's clothes maintain a constant temperature of 70(cid:176) 
+1946 Caster's clothes heat by 1&deg; per minute for the next 1d10 hours 
+1947 Caster's clothes maintain a constant temperature of 70&deg; 
 1948 Caster's clothes radiate intense magic 
 1949 Caster's clothes turn to copper 
 1950 Caster's clothes turn to densely-woven spider's web 
@@ -1966,7 +1966,7 @@
 1966 Caster's ears fall off and regrow every few days 
 1967 Caster's ears grow to the size of dinner plates 
 1968 Caster's ears resemble butterfly's wings 
-1969 Caster's elbows can't bend more than 90(cid:176) 
+1969 Caster's elbows can't bend more than 90&deg; 
 1970 Caster's entire head looks like a huge nose 
 1971 Caster's every attempt at music yields the same annoying tune 
 1972 Caster's eyelids look like lips 
@@ -2409,7 +2409,7 @@
 2409 Caster's spellbook turns into a cat when he says a command word 
 2410 Caster's spellbook vanishes; he finds it in a nearby well 
 2411 Caster's spellbook vanishes; in 1d4 days he disgorges it 
-2412 Caster's spellbook warms a five foot radius to a comfy 70(cid:176)  
+2412 Caster's spellbook warms a five foot radius to a comfy 70&deg;  
 2413 Caster's spellbook was here just a minute ago 
 2414 Caster's spellbook was instrumental in the downfall of an empire 
 2415 Caster's spellbook was stolen from a secret monastery 
@@ -2471,7 +2471,7 @@
 2471 Damage inflicted upon caster leaves unusually severe scars 
 2472 Domestic cats react to caster with astonishing ferocity 
 2473 Each day at noon, caster's age is reduced by 50%  
-2474 Each day at noon, caster's weapon heats to 2d100(cid:176) 
+2474 Each day at noon, caster's weapon heats to 2d100&deg; 
 2475 Each day at sunset, caster suffers intense pain for 1d4 rounds  
 2476 Each day for 2d6 days, caster must reroll his attributes  
 2477 Each day, caster adds a cumbersome new title to his name  
@@ -2789,7 +2789,7 @@
 2789 If caster is wearing a magic ring, he decides that he's a god 
 2790 If caster is wearing a magic ring, he disgorges a large bell 
 2791 If caster is wearing a magic ring, he disgorges one just like it 
-2792 If caster is wearing a magic ring, he feels 1d100(cid:176) colder  
+2792 If caster is wearing a magic ring, he feels 1d100&deg; colder  
 2793 If caster is wearing a magic ring, he finds an enormous diamond 
 2794 If caster is wearing a magic ring, he finds another just like it 
 2795 If caster is wearing a magic ring, he forgets how to use it 
@@ -2855,7 +2855,7 @@
 2855 If caster is wearing a magic ring, it disintegrates upon removal 
 2856 If caster is wearing a magic ring, it explodes upon removal 
 2857 If caster is wearing a magic ring, it has 2X as many charges 
-2858 If caster is wearing a magic ring, it heats to 1,000(cid:176) 
+2858 If caster is wearing a magic ring, it heats to 1,000&deg; 
 2859 If caster is wearing a magic ring, it shines like the sun 
 2860 If caster is wearing a magic ring, it shrinks by 50% 
 2861 If caster is wearing a magic ring, it sprouts dozens of needles 
@@ -3294,7 +3294,7 @@
 3294 Next potion imbibed by caster reduces him to one hit point 
 3295 Next potion imbibed by caster restores him to full hit points  
 3296 Next potion imbibed by caster reveals any secret doors nearby 
-3297 Next potion imbibed by caster rotates his feet 180(cid:176) 
+3297 Next potion imbibed by caster rotates his feet 180&deg; 
 3298 Next potion imbibed by caster sets his hair ablaze 
 3299 Next potion imbibed by caster shrinks his hands by 50% 
 3300 Next potion imbibed by caster snuffs all fires within one mile 
@@ -3402,7 +3402,7 @@
 3402 Once per day, caster can totally ignore one attack against him  
 3403 Once per day, caster can turn his hands ethereal for 1d6 rounds 
 3404 Once per day, caster can turn his hands invisible for 1d10 rounds 
-3405 Once per day, caster can turn his head 360(cid:176) at the neck, unharmed 
+3405 Once per day, caster can turn his head 360&deg; at the neck, unharmed 
 3406 Once per day, caster can turn his teeth invisible for 10 minutes 
 3407 Once per day, caster can turn invisible for up to three minutes 
 3408 Once per week, caster can appear to be a foot taller for one hour 
@@ -3711,7 +3711,7 @@
 3711 When caster is angry, steam billows from his nostrils 
 3712 When caster is surprised, he randomly teleports 1d4 yards 
 3713 When caster is surprised, his head briefly doubles in size 
-3714 When caster is surprised, his head spins 360(cid:176) 
+3714 When caster is surprised, his head spins 360&deg; 
 3715 When caster next casts this spell, he becomes hopelessly lost 
 3716 When caster next casts this spell, he feels overwhelming deja vu 
 3717 When caster next casts this spell, he teleports to this spot 
@@ -4019,8 +4019,8 @@
 4019 All that the target has ever done was really done by someone else 
 4020 All voices sound alike to the target for 5d6 days 
 4021 All within 100 yards with a missile weapon fire it at the target 
-4022 Ambient temperature always feels 50(cid:176) colder to target 
-4023 Ambient temperature rises 10(cid:176) when target is angry 
+4022 Ambient temperature always feels 50&deg; colder to target 
+4023 Ambient temperature rises 10&deg; when target is angry 
 4024 An earthen duplicate of the target rises up and attacks him 
 4025 An earthen duplicate of the target wants to take his place 
 4026 An evergreen sprouts from target's chest while he sleeps tonight 
@@ -4060,7 +4060,7 @@
 4060 Any gems now carried by target are cursed against him 
 4061 Any gold now carried by target belongs to a dragon 
 4062 Any gold now carried by target combusts like tinder 
-4063 Any jewelry that target is wearing heats to 500(cid:176) 
+4063 Any jewelry that target is wearing heats to 500&deg; 
 4064 Any magic items carried by the target glow like embers until dawn 
 4065 Any metal now in target's possession becomes intensely magnetic 
 4066 Any metal now in target's possession heats to its melting point 
@@ -4121,7 +4121,7 @@
 4121 Any undead now within 10 yards of target gain an extra hit die 
 4122 Any undead now within 10 yards of target vanish or are destroyed 
 4123 Any water elemental touching or touched by target freezes solid 
-4124 Any water elemental touching or touched by target heats to 200(cid:176) 
+4124 Any water elemental touching or touched by target heats to 200&deg; 
 4125 Any water elemental touching or touched by target is set ablaze 
 4126 Any water elemental touching or touched by target splits in two 
 4127 Any water now in contact with target's body freezes solid 
@@ -4145,7 +4145,7 @@
 4145 Anyone cutting target with a blade feels momentarily dizzy 
 4146 Anyone cutting target with a blade feels overwhelming dread 
 4147 Anyone cutting target with a blade feels the same amount of pain 
-4148 Anyone cutting target with a blade feels unsettling dØj(cid:224) vu 
+4148 Anyone cutting target with a blade feels unsettling déja vu 
 4149 Anyone cutting target with a blade gets an electric shock 
 4150 Anyone cutting target with a blade has awful dreams for one week 
 4151 Anyone cutting target with a blade immediately apologizes for it 
@@ -4483,7 +4483,7 @@
 4483 If target is now bleeding, he begins to drown as though submerged 
 4484 If target is now bleeding, he's hereafter susceptible to rust 
 4485 If target is now bleeding, his weapon is +4 for 2d4 hours 
-4486 If target is now bleeding, the ground at his feet heats to 500(cid:176) 
+4486 If target is now bleeding, the ground at his feet heats to 500&deg; 
 4487 If target is now carrying any food, he contracts advanced leprosy 
 4488 If target is now carrying any food, he loses 1d100 hit points 
 4489 If target is now carrying any food, he teleports 2d10 miles 
@@ -4537,7 +4537,7 @@
 4537 If target is wearing armor, it clatters noisily in the dark 
 4538 If target is wearing armor, it constricts painfully about him 
 4539 If target is wearing armor, it has a +2 AC bonus until sunrise 
-4540 If target is wearing armor, it heats to 500(cid:176) 
+4540 If target is wearing armor, it heats to 500&deg; 
 4541 If target is wearing armor, it rattles violently for 1d10 hours 
 4542 If target is wearing armor, it teleports 2d6 yards  
 4543 If target is wearing armor, it turns invisible 
@@ -4642,7 +4642,7 @@
 4642 Next magic item handled by target makes him think he's drowning 
 4643 Next magic item handled by target makes his hands go numb 
 4644 Next magic item handled by target restores 1d10 hit points 
-4645 Next magic item handled by target seems to him to be 1,000(cid:176) 
+4645 Next magic item handled by target seems to him to be 1,000&deg; 
 4646 Next magic item handled by target seems to him to be 10X heavier 
 4647 Next magic item handled by target shines like a beacon to undead 
 4648 Next magic item handled by target smells like manure for 3d8 days 
@@ -4783,7 +4783,7 @@
 4783 One of target's arms turns to a lion's foreleg 
 4784 One of target's eyes migrates to the back of his head 
 4785 One of target's feet is fused into an anvil 
-4786 One of target's feet rotates 180(cid:176) at the ankle 
+4786 One of target's feet rotates 180&deg; at the ankle 
 4787 One of target's hands appears to have been flattened by a hammer 
 4788 One of target's hands becomes hideously contorted and deformed 
 4789 One of target's hands can pass through solid steel 
@@ -5228,7 +5228,7 @@
 5228 Target can become invisible at will but is 15% likely to die 
 5229 Target can become invisible at will if he plucks out his eyes 
 5230 Target can become invisible by drinking a quart of Elf's blood 
-5231 Target can bend his spine 120(cid:176) midway along its length 
+5231 Target can bend his spine 120&deg; midway along its length 
 5232 Target can brachiate like an ape but adopts an ape's proportions  
 5233 Target can Call Lightning daily but it's 70% likely to strike him 
 5234 Target can cast one Wish spell but permanently dies as a result 
@@ -5681,7 +5681,7 @@
 5681 Target feels his bones slowly disintegrating 
 5682 Target feels icy water dripping on him during every battle 
 5683 Target feels like he's having the time of his life 
-5684 Target feels that the direction of gravity has skewed by 10(cid:176) 
+5684 Target feels that the direction of gravity has skewed by 10&deg; 
 5685 Target feels the ground shake as during a powerful earthquake 
 5686 Target finds a blade that can't be broken by any physical force 
 5687 Target finds a book describing the methods of brain surgery 
@@ -6433,7 +6433,7 @@
 6433 Target must Save or he beheads himself with his next attack 
 6434 Target must Save or he will never have existed 
 6435 Target must Save or his hands and weapons vanish until sunset 
-6436 Target must Save or his temperature rises 1(cid:176) per round  
+6436 Target must Save or his temperature rises 1&deg; per round  
 6437 Target must Save or lose 1d4 from each attribute score  
 6438 Target must Save when he's hit by a bludgeon or shatter 
 6439 Target must Save when he's hit by a bludgeon or shriek in panic 
@@ -6719,7 +6719,7 @@
 6719 Target suddenly senses that his identity is a fictional construct 
 6720 Target suffers a fit of crippling paranoia for 1d4 turns 
 6721 Target suffers a seizure lasting 1d10 rounds 
-6722 Target suffers burns if he touches water hotter than 80(cid:176) 
+6722 Target suffers burns if he touches water hotter than 80&deg; 
 6723 Target suffers double damage from injuries while he's wet 
 6724 Target suffers extreme hypothermia 
 6725 Target suffers from a disfiguring pox, but his teeth are radiant 
@@ -7051,7 +7051,7 @@
 7051 Target's clothes exude fragrant smoke for 1d4 weeks 
 7052 Target's clothes glow in the dark 
 7053 Target's clothes have been buried for weeks in a midden 
-7054 Target's clothes heat to 500(cid:176) 
+7054 Target's clothes heat to 500&deg; 
 7055 Target's clothes ignite each time he uses a magic item 
 7056 Target's clothes inflate to the size of a house 
 7057 Target's clothes make him appear to suffer from leprosy 
@@ -7126,7 +7126,7 @@
 7126 Target's feet are fused to the ground beneath him 
 7127 Target's feet are henceforth clear like glass 
 7128 Target's feet are now prehensile, but his hands are not 
-7129 Target's feet can rotate 360(cid:176) at the ankle without harming him 
+7129 Target's feet can rotate 360&deg; at the ankle without harming him 
 7130 Target's feet can't come within one yard of each other 
 7131 Target's feet explode if he ventures more than one mile from here 
 7132 Target's feet shriek incessantly while he wears shoes or boots 
@@ -7194,7 +7194,7 @@
 7194 Target's hands itch slightly when he touches a magic item 
 7195 Target's hands look black and necrotic after handling magic items 
 7196 Target's hands melt like wax if exposed to magical fire 
-7197 Target's hands rotate 180(cid:176) at the wrists 
+7197 Target's hands rotate 180&deg; at the wrists 
 7198 Target's hands shrink by 50% 
 7199 Target's hands steam vigorously when he's struck by magic 
 7200 Target's hands try to grab his ankles while he's walking 
@@ -7279,7 +7279,7 @@
 7279 Target's intestines are replaced by a length of noisy chain 
 7280 Target's jawbone becomes that of an ass 
 7281 Target's knees and elbows become ball-joints like his shoulders 
-7282 Target's knees and elbows can't straighten to more than 120(cid:176) 
+7282 Target's knees and elbows can't straighten to more than 120&deg; 
 7283 Target's knees and elbows creak like rusty metal 
 7284 Target's knees and elbows vanish 
 7285 Target's large intestine explodes 
@@ -7475,7 +7475,7 @@
 7475 Target's skin reeks of mold and mildew  
 7476 Target's skin reflects torchlight perfectly, but not sunlight 
 7477 Target's skin ripples in the wind like a cloth sheet 
-7478 Target's skin rotates 180(cid:176) 
+7478 Target's skin rotates 180&deg; 
 7479 Target's skin shimmers like mother-of-pearl from now on 
 7480 Target's skin sizzles harmlessly on contact with water 
 7481 Target's skin smolders during combat 
@@ -7488,8 +7488,8 @@
 7488 Target's speech is reversed while his weapon is drawn 
 7489 Target's speech seems unaccountably rude and aggressive 
 7490 Target's speech sounds like the buzzing of innumerable bees 
-7491 Target's spine bends 90(cid:176) halfway along its length 
-7492 Target's spine can twist 360(cid:176) without harming him 
+7491 Target's spine bends 90&deg; halfway along its length 
+7492 Target's spine can twist 360&deg; without harming him 
 7493 Target's spine doubles in length 
 7494 Target's spine is fused into a single bone for 1d8 hours 
 7495 Target's spine is indestructible 
@@ -7643,7 +7643,7 @@
 7643 Target's weapon has been broken and reforged many times 
 7644 Target's weapon has been prophesied to kill the king 
 7645 Target's weapon has never been tempered or hardened 
-7646 Target's weapon heats to 1,000(cid:176) the next time it draws blood 
+7646 Target's weapon heats to 1,000&deg; the next time it draws blood 
 7647 Target's weapon hisses during battle like quenched steel 
 7648 Target's weapon hums audibly during battle 
 7649 Target's weapon induces a fear of magic in anyone wounded by it 
@@ -7856,7 +7856,7 @@
 7856 Vines sprout from the ground at target's feet and attack him 
 7857 Vines sprout from the target's weapon and bind his limbs 
 7858 Viscous slime drips from the target's mouth from now on 
-7859 Water always feels 50(cid:176) colder to the target 
+7859 Water always feels 50&deg; colder to the target 
 7860 Water boils on contact with the target's flesh 
 7861 Water gives no benefit to target if imbibed while indoors 
 7862 Water has no weight when carried by the target 
@@ -7868,7 +7868,7 @@
 7868 Waterfowl attack the target on sight 
 7869 Waterfowl swear eternal loyalty to the target 
 7870 Weapons are invisible to the target while he wields them 
-7871 Whatever is now in target's hand heats to 500(cid:176) 
+7871 Whatever is now in target's hand heats to 500&deg; 
 7872 Whatever is now in target's hand is embossed with his name 
 7873 Whatever is now in target's hand is replaced by a sunflower 
 7874 Whatever is now in target's hand is worth 10X its normal value 
@@ -8121,7 +8121,7 @@
 8121 A new, non-magical, and deadly virus issues from the target point 
 8122 A one mile radius appears gloomy and blighted for 1d12 months 
 8123 A one mile radius is illuminated by full daylight for 3d10 days 
-8124 A one mile radius is rotates 360(cid:176) every 24 hours  
+8124 A one mile radius is rotates 360&deg; every 24 hours  
 8125 A one mile radius is shrouded by an eclipse for 2d8-1 days 
 8126 A one mile radius looks like a desert wasteland for one year 
 8127 A perfect 10 foot sphere of ice appears at the target point 
@@ -8168,7 +8168,7 @@
 8168 All blades within 50 yards are engraved with cryptic sigils 
 8169 All blades within 50 yards are restored to pristine condition 
 8170 All blades within 50 yards become clear like glass 
-8171 All blades within 50 yards bend 90(cid:176) halfway along their length 
+8171 All blades within 50 yards bend 90&deg; halfway along their length 
 8172 All blades within 50 yards must Save or crumble into rust 
 8173 All blades within one mile are blunted until sunset 
 8174 All blades within one mile glow cherry red until sunset tomorrow 
@@ -8196,7 +8196,7 @@
 8196 All coins within 50 yards become flexible as rubber 
 8197 All coins within 50 yards double in value 
 8198 All coins within 50 yards explode, 1d4-1 hit points per coin 
-8199 All coins within 50 yards heat to 1,000(cid:176) 
+8199 All coins within 50 yards heat to 1,000&deg; 
 8200 All coins within 50 yards turn to mercury 
 8201 All coins within one mile are easily recognized as counterfeit 
 8202 All curses now in effect within 100 yards are negated 
@@ -8251,7 +8251,7 @@
 8251 All goblins within 10 miles become vegetarian pacifists 
 8252 All goblins within 10 miles swear allegiance to someone nearby 
 8253 All goblins within 10 miles swear vengeance upon someone nearby 
-8254 All gold within 50 yards always seems to be 200(cid:176)  
+8254 All gold within 50 yards always seems to be 200&deg;  
 8255 All gold within 50 yards becomes transparent when submerged 
 8256 All gold within 50 yards begins to rust like damp steel 
 8257 All gold within 50 yards induces extreme covetousness 
@@ -8359,11 +8359,11 @@
 8359 All metal gauntlets within 50 yards are rustproof 
 8360 All metal gauntlets within 50 yards cause terrible chafing 
 8361 All metal gauntlets within 50 yards close into fists 
-8362 All metal gauntlets within 50 yards heat to 400(cid:176)  
+8362 All metal gauntlets within 50 yards heat to 400&deg;  
 8363 All metal gauntlets within 50 yards insulate against electricity 
 8364 All metal gauntlets within 50 yards shrink by 25% 
 8365 All metal gauntlets within 50 yards turn to silk 
-8366 All metal weapons wielded nearby seem to be 500(cid:176)  
+8366 All metal weapons wielded nearby seem to be 500&deg;  
 8367 All metal within 50 yards appears to be made of solid shadow 
 8368 All metal within 50 yards induces frostbite while in daylight 
 8369 All metal within 50 yards is entirely non-reflective 
@@ -8743,8 +8743,8 @@
 8743 All within 50 yards must Save or be Teleported 2d10 miles 
 8744 All within 50 yards must Save or be thrown into nearby trees 
 8745 All within 50 yards must Save or be tightly bound in wire 
-8746 All within 50 yards must Save or feel 1d100(cid:176) colder  
-8747 All within 50 yards must Save or feel 1d100(cid:176) warmer  
+8746 All within 50 yards must Save or feel 1d100&deg; colder  
+8747 All within 50 yards must Save or feel 1d100&deg; warmer  
 8748 All within 50 yards must Save or flee in panic for 2d10 rounds 
 8749 All within 50 yards must Save or sink 4d12 inches into the ground 
 8750 All within 50 yards must Save or suffer blinding pain until dawn 
@@ -8799,7 +8799,7 @@
 8799 All worked stone within 50 yards is briefly pliant as soft clay 
 8800 All worked stone within 50 yards is clear like glass 
 8801 All worked stone within 50 yards is etched with blasphemous runes 
-8802 All worked stone within 50 yards is now 3d100(cid:176) colder 
+8802 All worked stone within 50 yards is now 3d100&deg; colder 
 8803 All worked stone within 50 yards is water soluble 
 8804 All worked stone within 50 yards oozes blood for 1d4 hours 
 8805 All worked stone within 50 yards returns to its natural state 
@@ -9114,7 +9114,7 @@
 9114 From now on, all within 50 yards are left-handed  
 9115 From now on, all within 50 yards look as wounded as they are now 
 9116 Genocidal war breaks out between two or more major races 
-9117 Gravity is skewed by 45(cid:176) in this area until sunrise tomorrow 
+9117 Gravity is skewed by 45&deg; in this area until sunrise tomorrow 
 9118 Gravity within 100 yards has no effect on wood 
 9119 Half a ton of iron filings sprays from the target point 
 9120 Half a ton of pureed carrots sprays from the target point 
@@ -9230,7 +9230,7 @@
 9230 Nearest lake doubles its volume during each of the next 1d4 days 
 9231 Nearest lake drains to reveal the corpse of a long-dead deity 
 9232 Nearest lake freezes completely solid over the next 1d4 rounds 
-9233 Nearest lake heats to 200(cid:176) over the next 1d4 rounds 
+9233 Nearest lake heats to 200&deg; over the next 1d4 rounds 
 9234 Nearest lake is covered by a tarp 
 9235 Nearest lake is encircled by a moat of flaming pitch 
 9236 Nearest lake is home to a colony of unaging amphibious humanoids 
@@ -9425,7 +9425,7 @@
 9425 Next weapon drawn nearby can't cross running water  
 9426 Next weapon drawn nearby can't kill anyone while its owner lives 
 9427 Next weapon drawn nearby causes its wielder to distrust magic 
-9428 Next weapon drawn nearby chills to -200(cid:176) 
+9428 Next weapon drawn nearby chills to -200&deg; 
 9429 Next weapon drawn nearby damages the sanity of its wielder 
 9430 Next weapon drawn nearby disintegrates if used to kill someone 
 9431 Next weapon drawn nearby fills its wielder with crippling fear 
@@ -9458,7 +9458,7 @@
 9458 Next weapon nearby to draw blood doubles in length until sunrise 
 9459 Next weapon nearby to draw blood glows in the presence of humans 
 9460 Next weapon nearby to draw blood has been used to murder a king 
-9461 Next weapon nearby to draw blood heats to 800(cid:176) 
+9461 Next weapon nearby to draw blood heats to 800&deg; 
 9462 Next weapon nearby to draw blood imparts visions of perdition 
 9463 Next weapon nearby to draw blood induces bloodlust in its wielder 
 9464 Next weapon nearby to draw blood induces envy in its wielder 
@@ -9562,7 +9562,7 @@
 9562 One random sword nearby will explode on contact with blood 
 9563 One suit of armor nearby becomes free-willed and belligerent 
 9564 One suit of armor nearby fuses into a single piece 
-9565 One suit of armor nearby heats to 600(cid:176) the next time it's struck 
+9565 One suit of armor nearby heats to 600&deg; the next time it's struck 
 9566 One suit of armor nearby is burned to slag 
 9567 Plans for a perpetual motion device appear at the target point 
 9568 Popular opinion nearby is sharply opposed to the use of magic 
@@ -9820,8 +9820,8 @@
 9820 Suddenly it's raining harder than anyone has ever experienced 
 9821 Suddenly the area is snowbound as from a year-long blizzard  
 9822 Summonings are impossible within one mile of the target point 
-9823 Temperature within 100 yards drops 1(cid:176) per minute for 1d4 hours 
-9824 Temperature within 100 yards rises 1(cid:176) per minute for 1d4 hours  
+9823 Temperature within 100 yards drops 1&deg; per minute for 1d4 hours 
+9824 Temperature within 100 yards rises 1&deg; per minute for 1d4 hours  
 9825 The arms of someone nearby turn into wings like those of a duck 
 9826 The complete skeleton of a huge red dragon tumbles from the sky 
 9827 The corpse of a forgotten deity is discovered in a nearby cave 
@@ -9925,7 +9925,7 @@
 9925 The planet splits into two stable hemispheres 10 yards apart 
 9926 The planet tumbles into another ice age 
 9927 The planet's atmosphere leaks into space over the next 1d6 months 
-9928 The planet's average temperature rises 1(cid:176) per week for 4d6 weeks 
+9928 The planet's average temperature rises 1&deg; per week for 4d6 weeks 
 9929 The planet's hemispheres rotate at slightly different rates 
 9930 The planet's oceans are becalmed 
 9931 The planet's orbital radius shrinks by 1d8 x 10,000 miles 
@@ -9988,8 +9988,8 @@
 9988 Water consumed in this area tastes like the finest wine 
 9989 Water consumed in this area tastes strongly of manure 
 9990 Water flows from the target point to fill a 100-yard hemisphere 
-9991 Water in this area boils at 70(cid:176) Fahrenheit 
-9992 Water in this area freezes at 70(cid:176) Fahrenheit 
+9991 Water in this area boils at 70&deg; Fahrenheit 
+9992 Water in this area freezes at 70&deg; Fahrenheit 
 9993 Weather in this area changes drastically each hour for one week 
 9994 Weather in this area is supernaturally intense for 1d4 months 
 9995 While in this area, males are invisible to females, and vice versa 
